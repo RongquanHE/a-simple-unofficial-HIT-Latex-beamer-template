@@ -7,6 +7,10 @@ This is a simple unofficial presentation template for HIT by latex.
 
 Everyone can download it and use it for free.
 
-Instruction: 1. Open "presentation.tex"  by latex editor.
-             2. Fold "images" used for collecting your images shown in Presentation.
-             3. About other affairs, please  refer to latex instructions.
+Instruction: 
+
+1. Open "presentation.tex"  by latex editor.
+
+2. Fold "Images" used for collecting your images shown in Presentation.
+             
+3. About other affairs, please  refer to latex instructions.
